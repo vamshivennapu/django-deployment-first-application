@@ -1,1 +1,1 @@
-from django first project
+from django first project#django-deployment-first-application
